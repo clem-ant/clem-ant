@@ -1,5 +1,5 @@
-![Clem-ant's github stats](https://github-readme-stats.vercel.app/api?username=clem-ant)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clem-ant)]
+![Clem-ant's github stats](https://github-readme-stats.vercel.app/api?username=clem-ant&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clem-ant&show_icons=true&theme=dark)]
 <!--
 **clem-ant/clem-ant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
